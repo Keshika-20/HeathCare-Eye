@@ -166,6 +166,3 @@ eye_tests (id, patient_id, left_acuity, left_power, left_severity,
 - [ ] Multi-language support
 
 ---
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
