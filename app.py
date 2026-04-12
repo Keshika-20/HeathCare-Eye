@@ -10,6 +10,7 @@ import os
 import subprocess
 import sys
 from datetime import datetime
+#import python
 
 from core import (
     DiagnosticEngine, PatientDatabase, ReportGenerator,
